@@ -1,0 +1,13 @@
+/* .ss{
+    width:80%
+} */
+@media(max-width:500px) {
+    .s1{
+        gap:20px !important;
+        margin-left: 20px !important;
+    }
+    .s2{
+        padding: 0.25rem !important;
+    }
+    
+}
